@@ -4,7 +4,7 @@ This app detects faces in an image. Simply type in the URL of the image and let 
 
 画像の中の顔を見つけるのアプリです。このアプリを作ったの理由は、フロントとバックエンドを働き方を学びたかったのです。このアプリを作って、プログラムの中,各部分はどうやって動いてるかかを可視化出来るようになりました。
 
-#### 公開リンク：https://simple-smartbrain.netlify.app
+#### Demo Link・公開リンク：https://simple-smartbrain.netlify.app
 #### Backend・バックエンド: https://github.com/hamzara2a/Python_SmartBrainServer
 
 ## Demo・デモンストレーション
