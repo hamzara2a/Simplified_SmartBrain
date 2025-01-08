@@ -1,12 +1,12 @@
 # Introduction・紹介
 
+#### Demo Link・公開リンク：https://simple-smartbrain.netlify.app
 This app detects faces in an image. Simply type in the URL of the image and let the app do the rest. I made this project to further improve my understanding of how the Frontend and Backend work. Through this project, I got better at visualizing how each part of the app works together
 
 画像の中の顔を見つけるのアプリです。このアプリを作ったの理由は、フロントとバックエンドを働き方を学びたかったのです。このアプリを作って、プログラムの中,各部分はどうやって動いてるかかを可視化出来るようになりました。
 
-#### Demo Link・公開リンク：https://simple-smartbrain.netlify.app
 #### Backend・バックエンド: https://github.com/hamzara2a/Python_SmartBrainServer
-
+#### Model・使用したモデル: [face-detection model](https://clarifai.com/clarifai/main/models/face-detection)
 ## Demo・デモンストレーション
 
 ### How To Use・使い方
